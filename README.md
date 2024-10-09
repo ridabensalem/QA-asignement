@@ -1,5 +1,4 @@
 # QA backend -asignement
-Here’s a simple coding test that evaluates a candidate’s problem-solving skills, knowledge of backend development, and understanding of microservices-related tasks. It focuses on testing the logic and approach to common backend scenarios.
 
 ### **Coding Test: Simple REST API**
 
@@ -47,6 +46,7 @@ Build a simple REST API with two endpoints that simulate interaction between mic
 - Store the orders in an in-memory array (no need for a database).
 - Implement basic error handling (e.g., invalid input for the POST request).
 - The code should be clean, well-structured, and easy to understand.
+- You do not need to install anything just write code , we want to see how you are solving the problem 
 
 ### **Bonus:**
 - Add an endpoint to retrieve a specific order by its `orderId`.
@@ -59,6 +59,4 @@ Build a simple REST API with two endpoints that simulate interaction between mic
 - **Scalability:** Is the candidate thinking about how the system might scale (even though it’s simple, they might discuss it)?
 - **Bonus (optional):** Did the candidate add the bonus endpoint or simulate external service calls?
 
----
 
-This test should take no more than an hour to complete and gives insight into the candidate’s basic coding ability, as well as their understanding of backend concepts and microservice interactions.
